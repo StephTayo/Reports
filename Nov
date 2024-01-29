@@ -1,9 +1,61 @@
-**Technical Report on Software Development Project Preparation**
+When interviewing prospective candidates for the role of C# software developer, it's important to assess their technical skills, problem-solving abilities, and interpersonal qualities. Here are some questions you can consider asking:
 
-As the Software Team Lead, I am pleased to provide an overview of the preparatory activities undertaken for our upcoming software development project. Recognizing the pivotal role of cloud technology in contemporary software engineering, our team has engaged in comprehensive training in AWS cloud management. Additionally, I have obtained certification as a Cloud Architect, aligning our skills with industry best practices in cloud rendering and computing.
+### Technical Skills:
 
-The decision to leverage AWS for our project stems from its reputation for easy deployment, scalability, and robust security features. Cloud technology, while offering significant advantages, presents its own set of complexities. To proactively address these challenges, I have pursued relevant certifications, ensuring our team is well-equipped to navigate the intricacies of cloud-based solutions.
+1. **C# Fundamentals:**
+   - Can you explain the differences between value types and reference types in C#?
+   - How does garbage collection work in C#?
+   - Explain the concept of delegates and events.
 
-In anticipation of team composition, I have developed custom Machine Images (Amazon Machine Image - AMI). These images encapsulate not only the necessary API and code lines but also simulated CAD OEM plugins. This strategic move aims to provide a clear technical blueprint for our prospective software development team, facilitating a seamless onboarding process and promoting uniformity in our development environment.
+2. **Object-Oriented Programming (OOP):**
+   - Describe the principles of OOP, and how they are implemented in C#.
+   - Explain the difference between abstraction and encapsulation.
+   - How does inheritance work in C#?
 
-Currently, we have established an AWS (root) account under the free-tier subscription. This foundational setup positions us for efficient scaling as the team comes together, seamlessly transitioning to a business-tier subscription to accommodate the demands of our project. These initiatives collectively underscore our commitment to a technologically advanced and well-prepared approach to the software development endeavor.
+3. **ASP.NET:**
+   - What is ASP.NET and how does it differ from ASP.NET Core?
+   - Explain the MVC (Model-View-Controller) pattern in ASP.NET.
+
+4. **Database and Entity Framework:**
+   - How would you connect to a database in a C# application?
+   - What is Entity Framework, and how does it simplify database interactions?
+
+5. **Web Development:**
+   - Can you explain the life cycle of an ASP.NET web application?
+   - How do you handle state management in web applications?
+
+### Problem-Solving and Coding:
+
+6. **Coding Exercises:**
+   - Provide a coding exercise related to data structures or algorithms.
+   - Ask the candidate to optimize a piece of code.
+
+7. **Debugging:**
+   - How do you approach debugging a complex issue in a C# application?
+   - Have you used any profiling tools for performance optimization?
+
+### Project and Experience:
+
+8. **Previous Projects:**
+   - Describe a challenging project you've worked on using C#. What was your role, and how did you overcome any obstacles?
+   - How do you handle version control, and which tools are you familiar with?
+
+9. **Code Review:**
+   - How do you approach code reviews, and what aspects do you focus on?
+   - Have you ever refactored code for performance or readability?
+
+### Interpersonal and Teamwork:
+
+10. **Communication Skills:**
+    - How do you communicate technical concepts to non-technical team members?
+    - Describe a situation where you had to explain a complex technical issue to a non-technical stakeholder.
+
+11. **Team Collaboration:**
+    - Have you worked in an Agile/Scrum environment? How do you contribute to sprint planning and reviews?
+    - How do you handle conflicting opinions within a development team?
+
+12. **Learning and Adaptability:**
+    - How do you stay updated with the latest developments in C# and .NET?
+    - Describe a situation where you had to quickly learn a new technology or framework.
+
+Remember to tailor these questions based on the specific needs and requirements of your organization. Additionally, practical coding assessments can provide valuable insights into a candidate's hands-on skills.
